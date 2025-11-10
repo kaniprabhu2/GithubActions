@@ -1,5 +1,5 @@
 name: Python-Script
-on: [push, pull_request]
+on: push
 jobs:
   pytestJob:
     runs-on: ubuntu-latest
